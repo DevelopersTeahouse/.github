@@ -3,3 +3,5 @@
 <p>一起为开源社区贡献自己的聪明才智，</p>
 <p>如果你也想加入我们：</p>
   <strong>QQ</strong>：242496156
+  <strong>微信</strong>：暂无
+  <strong>TG</strong>：暂无
